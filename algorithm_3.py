@@ -1,3 +1,6 @@
+#Problem 3
+#Find max prime factor
+
 import math
 liczba = 600851475143
 dzielnik = 2

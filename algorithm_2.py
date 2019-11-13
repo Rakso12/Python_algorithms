@@ -1,3 +1,6 @@
+#Problem 2
+#Sum fibonacii (max value 4mln)
+
 def fibonaci(n):
     liczba_1 = 0
     liczba_2 = 1

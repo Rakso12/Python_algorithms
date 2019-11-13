@@ -1,3 +1,6 @@
+#Problem 4
+#Find palindrome
+
 palindrome = lambda x:x == x[::-1]
 max =0
 for liczba_1 in range(100,1000):
